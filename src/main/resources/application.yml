@@ -3,3 +3,5 @@ logging:
     console: '%d{yyyy:MM:dd HH:mm} [%thread] %-5level %logger{50} -%msg%n'
   path: E:/spring/log
   file: demo.log
+server:
+  port: 8081
